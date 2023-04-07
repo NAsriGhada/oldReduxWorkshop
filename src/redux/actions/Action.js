@@ -1,4 +1,4 @@
-import { DECREMENT, INCREMENT } from "./Type";
+import { DECREMENT, INCREMENT } from "../constants/Type";
 
 export const increment = (x) => {
   return {
